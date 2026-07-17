@@ -1,0 +1,3102 @@
+[
+  {
+    "id": "brand-1",
+    "name": "Apple",
+    "slug": "apple",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-1",
+    "rating": 4.3,
+    "originCountry": "Italy",
+    "yearEstablished": 1961,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Apple collections."
+  },
+  {
+    "id": "brand-2",
+    "name": "Samsung",
+    "slug": "samsung",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-2",
+    "rating": 4.5,
+    "originCountry": "Japan",
+    "yearEstablished": 1969,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Samsung collections."
+  },
+  {
+    "id": "brand-3",
+    "name": "Google",
+    "slug": "google",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-3",
+    "rating": 4.6,
+    "originCountry": "Sweden",
+    "yearEstablished": 2023,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Google collections."
+  },
+  {
+    "id": "brand-4",
+    "name": "Sony",
+    "slug": "sony",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-4",
+    "rating": 4.9,
+    "originCountry": "Japan",
+    "yearEstablished": 1924,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Sony collections."
+  },
+  {
+    "id": "brand-5",
+    "name": "Microsoft",
+    "slug": "microsoft",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-5",
+    "rating": 4.7,
+    "originCountry": "Japan",
+    "yearEstablished": 2002,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Microsoft collections."
+  },
+  {
+    "id": "brand-6",
+    "name": "OnePlus",
+    "slug": "oneplus",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-6",
+    "rating": 4.5,
+    "originCountry": "Germany",
+    "yearEstablished": 2017,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for OnePlus collections."
+  },
+  {
+    "id": "brand-7",
+    "name": "Nothing",
+    "slug": "nothing",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-7",
+    "rating": 4.7,
+    "originCountry": "Germany",
+    "yearEstablished": 2009,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Nothing collections."
+  },
+  {
+    "id": "brand-8",
+    "name": "Xiaomi",
+    "slug": "xiaomi",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-8",
+    "rating": 5,
+    "originCountry": "UK",
+    "yearEstablished": 1952,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Xiaomi collections."
+  },
+  {
+    "id": "brand-9",
+    "name": "ASUS",
+    "slug": "asus",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-9",
+    "rating": 4.4,
+    "originCountry": "South Korea",
+    "yearEstablished": 1961,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for ASUS collections."
+  },
+  {
+    "id": "brand-10",
+    "name": "Lenovo",
+    "slug": "lenovo",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-10",
+    "rating": 4.9,
+    "originCountry": "Singapore",
+    "yearEstablished": 1949,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Lenovo collections."
+  },
+  {
+    "id": "brand-11",
+    "name": "HP",
+    "slug": "hp",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-11",
+    "rating": 4.8,
+    "originCountry": "Sweden",
+    "yearEstablished": 1998,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for HP collections."
+  },
+  {
+    "id": "brand-12",
+    "name": "Dell",
+    "slug": "dell",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-12",
+    "rating": 4.3,
+    "originCountry": "Germany",
+    "yearEstablished": 2015,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Dell collections."
+  },
+  {
+    "id": "brand-13",
+    "name": "Acer",
+    "slug": "acer",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-13",
+    "rating": 4.6,
+    "originCountry": "Japan",
+    "yearEstablished": 2004,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Acer collections."
+  },
+  {
+    "id": "brand-14",
+    "name": "LG",
+    "slug": "lg",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-14",
+    "rating": 4.2,
+    "originCountry": "Italy",
+    "yearEstablished": 1927,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for LG collections."
+  },
+  {
+    "id": "brand-15",
+    "name": "Canon",
+    "slug": "canon",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-15",
+    "rating": 4.6,
+    "originCountry": "Sweden",
+    "yearEstablished": 1944,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Canon collections."
+  },
+  {
+    "id": "brand-16",
+    "name": "Nikon",
+    "slug": "nikon",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-16",
+    "rating": 4.7,
+    "originCountry": "Singapore",
+    "yearEstablished": 1953,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Nikon collections."
+  },
+  {
+    "id": "brand-17",
+    "name": "Bose",
+    "slug": "bose",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-17",
+    "rating": 4.5,
+    "originCountry": "Germany",
+    "yearEstablished": 1992,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Bose collections."
+  },
+  {
+    "id": "brand-18",
+    "name": "JBL",
+    "slug": "jbl",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-18",
+    "rating": 4.6,
+    "originCountry": "UK",
+    "yearEstablished": 2021,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for JBL collections."
+  },
+  {
+    "id": "brand-19",
+    "name": "Marshall",
+    "slug": "marshall",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-19",
+    "rating": 4.5,
+    "originCountry": "South Korea",
+    "yearEstablished": 1977,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Marshall collections."
+  },
+  {
+    "id": "brand-20",
+    "name": "Logitech",
+    "slug": "logitech",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-20",
+    "rating": 4.3,
+    "originCountry": "USA",
+    "yearEstablished": 1967,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Logitech collections."
+  },
+  {
+    "id": "brand-21",
+    "name": "Razer",
+    "slug": "razer",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-21",
+    "rating": 4.4,
+    "originCountry": "Sweden",
+    "yearEstablished": 1928,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Razer collections."
+  },
+  {
+    "id": "brand-22",
+    "name": "Nike",
+    "slug": "nike",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-22",
+    "rating": 4.8,
+    "originCountry": "Italy",
+    "yearEstablished": 1939,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Nike collections."
+  },
+  {
+    "id": "brand-23",
+    "name": "Adidas",
+    "slug": "adidas",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-23",
+    "rating": 4.4,
+    "originCountry": "Singapore",
+    "yearEstablished": 1934,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Adidas collections."
+  },
+  {
+    "id": "brand-24",
+    "name": "Puma",
+    "slug": "puma",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-24",
+    "rating": 4.4,
+    "originCountry": "Singapore",
+    "yearEstablished": 1934,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Puma collections."
+  },
+  {
+    "id": "brand-25",
+    "name": "Levi's",
+    "slug": "levis",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-25",
+    "rating": 4.4,
+    "originCountry": "South Korea",
+    "yearEstablished": 1939,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Levi's collections."
+  },
+  {
+    "id": "brand-26",
+    "name": "H&M",
+    "slug": "hm",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-26",
+    "rating": 5,
+    "originCountry": "Singapore",
+    "yearEstablished": 1996,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for H&M collections."
+  },
+  {
+    "id": "brand-27",
+    "name": "Zara",
+    "slug": "zara",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-27",
+    "rating": 4.6,
+    "originCountry": "Sweden",
+    "yearEstablished": 1935,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Zara collections."
+  },
+  {
+    "id": "brand-28",
+    "name": "Allen Solly",
+    "slug": "allen-solly",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-28",
+    "rating": 4.6,
+    "originCountry": "Singapore",
+    "yearEstablished": 1953,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Allen Solly collections."
+  },
+  {
+    "id": "brand-29",
+    "name": "Louis Philippe",
+    "slug": "louis-philippe",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-29",
+    "rating": 4.6,
+    "originCountry": "South Korea",
+    "yearEstablished": 1925,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Louis Philippe collections."
+  },
+  {
+    "id": "brand-30",
+    "name": "Titan",
+    "slug": "titan",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-30",
+    "rating": 4.5,
+    "originCountry": "Italy",
+    "yearEstablished": 2014,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Titan collections."
+  },
+  {
+    "id": "brand-31",
+    "name": "Fossil",
+    "slug": "fossil",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-31",
+    "rating": 4.8,
+    "originCountry": "South Korea",
+    "yearEstablished": 1920,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Fossil collections."
+  },
+  {
+    "id": "brand-32",
+    "name": "Casio",
+    "slug": "casio",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-32",
+    "rating": 4.6,
+    "originCountry": "Italy",
+    "yearEstablished": 1949,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Casio collections."
+  },
+  {
+    "id": "brand-33",
+    "name": "Tissot",
+    "slug": "tissot",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-33",
+    "rating": 4.4,
+    "originCountry": "Sweden",
+    "yearEstablished": 1999,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Tissot collections."
+  },
+  {
+    "id": "brand-34",
+    "name": "Seiko",
+    "slug": "seiko",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-34",
+    "rating": 4.3,
+    "originCountry": "Japan",
+    "yearEstablished": 2018,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Seiko collections."
+  },
+  {
+    "id": "brand-35",
+    "name": "Rolex",
+    "slug": "rolex",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-35",
+    "rating": 4.6,
+    "originCountry": "South Korea",
+    "yearEstablished": 1930,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Rolex collections."
+  },
+  {
+    "id": "brand-36",
+    "name": "Philips",
+    "slug": "philips",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-36",
+    "rating": 4.4,
+    "originCountry": "South Korea",
+    "yearEstablished": 1970,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Philips collections."
+  },
+  {
+    "id": "brand-37",
+    "name": "Dyson",
+    "slug": "dyson",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-37",
+    "rating": 4.6,
+    "originCountry": "UK",
+    "yearEstablished": 1931,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Dyson collections."
+  },
+  {
+    "id": "brand-38",
+    "name": "KitchenAid",
+    "slug": "kitchenaid",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-38",
+    "rating": 4.8,
+    "originCountry": "Japan",
+    "yearEstablished": 1983,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for KitchenAid collections."
+  },
+  {
+    "id": "brand-39",
+    "name": "IKEA",
+    "slug": "ikea",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-39",
+    "rating": 4.7,
+    "originCountry": "Japan",
+    "yearEstablished": 1958,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for IKEA collections."
+  },
+  {
+    "id": "brand-40",
+    "name": "Lego",
+    "slug": "lego",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-40",
+    "rating": 4.3,
+    "originCountry": "USA",
+    "yearEstablished": 1928,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Lego collections."
+  },
+  {
+    "id": "brand-41",
+    "name": "Hasbro",
+    "slug": "hasbro",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-41",
+    "rating": 4.3,
+    "originCountry": "Germany",
+    "yearEstablished": 1928,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Hasbro collections."
+  },
+  {
+    "id": "brand-42",
+    "name": "Mattel",
+    "slug": "mattel",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-42",
+    "rating": 4.7,
+    "originCountry": "South Korea",
+    "yearEstablished": 1978,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Mattel collections."
+  },
+  {
+    "id": "brand-43",
+    "name": "Nova Gear 1",
+    "slug": "nova-gear-1",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-43",
+    "rating": 4.6,
+    "originCountry": "Sweden",
+    "yearEstablished": 2012,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Nova Gear 1 collections."
+  },
+  {
+    "id": "brand-44",
+    "name": "Crest Gear 1",
+    "slug": "crest-gear-1",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-44",
+    "rating": 4.6,
+    "originCountry": "Japan",
+    "yearEstablished": 1925,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Crest Gear 1 collections."
+  },
+  {
+    "id": "brand-45",
+    "name": "Sartorial Gear 1",
+    "slug": "sartorial-gear-1",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-45",
+    "rating": 4.2,
+    "originCountry": "Singapore",
+    "yearEstablished": 1927,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Sartorial Gear 1 collections."
+  },
+  {
+    "id": "brand-46",
+    "name": "Verdant Gear 1",
+    "slug": "verdant-gear-1",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-46",
+    "rating": 4.8,
+    "originCountry": "Japan",
+    "yearEstablished": 1950,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Verdant Gear 1 collections."
+  },
+  {
+    "id": "brand-47",
+    "name": "Pulse Gear 1",
+    "slug": "pulse-gear-1",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-47",
+    "rating": 4.7,
+    "originCountry": "Germany",
+    "yearEstablished": 1963,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Pulse Gear 1 collections."
+  },
+  {
+    "id": "brand-48",
+    "name": "Oasis Gear 1",
+    "slug": "oasis-gear-1",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-48",
+    "rating": 4.7,
+    "originCountry": "Singapore",
+    "yearEstablished": 1975,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Oasis Gear 1 collections."
+  },
+  {
+    "id": "brand-49",
+    "name": "Volta Gear 1",
+    "slug": "volta-gear-1",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-49",
+    "rating": 4.6,
+    "originCountry": "Italy",
+    "yearEstablished": 1979,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Volta Gear 1 collections."
+  },
+  {
+    "id": "brand-50",
+    "name": "Lumina Gear 1",
+    "slug": "lumina-gear-1",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-50",
+    "rating": 4.3,
+    "originCountry": "Italy",
+    "yearEstablished": 2018,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Lumina Gear 1 collections."
+  },
+  {
+    "id": "brand-51",
+    "name": "Quantum Dynamics 1",
+    "slug": "quantum-dynamics-1",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-51",
+    "rating": 4.3,
+    "originCountry": "Japan",
+    "yearEstablished": 1972,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Quantum Dynamics 1 collections."
+  },
+  {
+    "id": "brand-52",
+    "name": "Aether Dynamics 1",
+    "slug": "aether-dynamics-1",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-52",
+    "rating": 4.8,
+    "originCountry": "Singapore",
+    "yearEstablished": 1922,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Aether Dynamics 1 collections."
+  },
+  {
+    "id": "brand-53",
+    "name": "Aura Dynamics 1",
+    "slug": "aura-dynamics-1",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-53",
+    "rating": 4.8,
+    "originCountry": "South Korea",
+    "yearEstablished": 1937,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Aura Dynamics 1 collections."
+  },
+  {
+    "id": "brand-54",
+    "name": "Vanguard Dynamics 1",
+    "slug": "vanguard-dynamics-1",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-54",
+    "rating": 4.4,
+    "originCountry": "Italy",
+    "yearEstablished": 1997,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Vanguard Dynamics 1 collections."
+  },
+  {
+    "id": "brand-55",
+    "name": "Elysium Dynamics 1",
+    "slug": "elysium-dynamics-1",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-55",
+    "rating": 4.7,
+    "originCountry": "Sweden",
+    "yearEstablished": 1946,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Elysium Dynamics 1 collections."
+  },
+  {
+    "id": "brand-56",
+    "name": "Meridian Dynamics 1",
+    "slug": "meridian-dynamics-1",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-56",
+    "rating": 4.6,
+    "originCountry": "Germany",
+    "yearEstablished": 2000,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Meridian Dynamics 1 collections."
+  },
+  {
+    "id": "brand-57",
+    "name": "Apex Dynamics 1",
+    "slug": "apex-dynamics-1",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-57",
+    "rating": 4.4,
+    "originCountry": "Singapore",
+    "yearEstablished": 1965,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Apex Dynamics 1 collections."
+  },
+  {
+    "id": "brand-58",
+    "name": "Zenith Dynamics 1",
+    "slug": "zenith-dynamics-1",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-58",
+    "rating": 4.4,
+    "originCountry": "South Korea",
+    "yearEstablished": 2008,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Zenith Dynamics 1 collections."
+  },
+  {
+    "id": "brand-59",
+    "name": "Equinox Dynamics 1",
+    "slug": "equinox-dynamics-1",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-59",
+    "rating": 4.4,
+    "originCountry": "Italy",
+    "yearEstablished": 1977,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Equinox Dynamics 1 collections."
+  },
+  {
+    "id": "brand-60",
+    "name": "Nova Dynamics 1",
+    "slug": "nova-dynamics-1",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-60",
+    "rating": 4.8,
+    "originCountry": "UK",
+    "yearEstablished": 1953,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Nova Dynamics 1 collections."
+  },
+  {
+    "id": "brand-61",
+    "name": "Crest Dynamics 1",
+    "slug": "crest-dynamics-1",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-61",
+    "rating": 4.3,
+    "originCountry": "South Korea",
+    "yearEstablished": 1997,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Crest Dynamics 1 collections."
+  },
+  {
+    "id": "brand-62",
+    "name": "Sartorial Dynamics 1",
+    "slug": "sartorial-dynamics-1",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-62",
+    "rating": 4.7,
+    "originCountry": "Italy",
+    "yearEstablished": 2010,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Sartorial Dynamics 1 collections."
+  },
+  {
+    "id": "brand-63",
+    "name": "Verdant Dynamics 1",
+    "slug": "verdant-dynamics-1",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-63",
+    "rating": 4.5,
+    "originCountry": "Singapore",
+    "yearEstablished": 1960,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Verdant Dynamics 1 collections."
+  },
+  {
+    "id": "brand-64",
+    "name": "Pulse Dynamics 1",
+    "slug": "pulse-dynamics-1",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-64",
+    "rating": 4.5,
+    "originCountry": "USA",
+    "yearEstablished": 1934,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Pulse Dynamics 1 collections."
+  },
+  {
+    "id": "brand-65",
+    "name": "Oasis Dynamics 1",
+    "slug": "oasis-dynamics-1",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-65",
+    "rating": 4.3,
+    "originCountry": "Germany",
+    "yearEstablished": 1945,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Oasis Dynamics 1 collections."
+  },
+  {
+    "id": "brand-66",
+    "name": "Volta Dynamics 1",
+    "slug": "volta-dynamics-1",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-66",
+    "rating": 4.7,
+    "originCountry": "USA",
+    "yearEstablished": 1986,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Volta Dynamics 1 collections."
+  },
+  {
+    "id": "brand-67",
+    "name": "Lumina Dynamics 1",
+    "slug": "lumina-dynamics-1",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-67",
+    "rating": 4.8,
+    "originCountry": "Germany",
+    "yearEstablished": 1979,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Lumina Dynamics 1 collections."
+  },
+  {
+    "id": "brand-68",
+    "name": "Quantum Goods 1",
+    "slug": "quantum-goods-1",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-68",
+    "rating": 4.6,
+    "originCountry": "Japan",
+    "yearEstablished": 1946,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Quantum Goods 1 collections."
+  },
+  {
+    "id": "brand-69",
+    "name": "Aether Goods 1",
+    "slug": "aether-goods-1",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-69",
+    "rating": 4.4,
+    "originCountry": "Germany",
+    "yearEstablished": 1999,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Aether Goods 1 collections."
+  },
+  {
+    "id": "brand-70",
+    "name": "Aura Goods 1",
+    "slug": "aura-goods-1",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-70",
+    "rating": 4.2,
+    "originCountry": "Singapore",
+    "yearEstablished": 1921,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Aura Goods 1 collections."
+  },
+  {
+    "id": "brand-71",
+    "name": "Vanguard Goods 1",
+    "slug": "vanguard-goods-1",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-71",
+    "rating": 4.2,
+    "originCountry": "UK",
+    "yearEstablished": 1944,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Vanguard Goods 1 collections."
+  },
+  {
+    "id": "brand-72",
+    "name": "Elysium Goods 1",
+    "slug": "elysium-goods-1",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-72",
+    "rating": 4.8,
+    "originCountry": "UK",
+    "yearEstablished": 1970,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Elysium Goods 1 collections."
+  },
+  {
+    "id": "brand-73",
+    "name": "Meridian Goods 1",
+    "slug": "meridian-goods-1",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-73",
+    "rating": 4.8,
+    "originCountry": "Singapore",
+    "yearEstablished": 1979,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Meridian Goods 1 collections."
+  },
+  {
+    "id": "brand-74",
+    "name": "Apex Goods 1",
+    "slug": "apex-goods-1",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-74",
+    "rating": 4.4,
+    "originCountry": "Germany",
+    "yearEstablished": 1951,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Apex Goods 1 collections."
+  },
+  {
+    "id": "brand-75",
+    "name": "Zenith Goods 1",
+    "slug": "zenith-goods-1",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-75",
+    "rating": 4.3,
+    "originCountry": "South Korea",
+    "yearEstablished": 2018,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Zenith Goods 1 collections."
+  },
+  {
+    "id": "brand-76",
+    "name": "Equinox Goods 1",
+    "slug": "equinox-goods-1",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-76",
+    "rating": 4.7,
+    "originCountry": "Sweden",
+    "yearEstablished": 1933,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Equinox Goods 1 collections."
+  },
+  {
+    "id": "brand-77",
+    "name": "Nova Goods 1",
+    "slug": "nova-goods-1",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-77",
+    "rating": 4.8,
+    "originCountry": "South Korea",
+    "yearEstablished": 1991,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Nova Goods 1 collections."
+  },
+  {
+    "id": "brand-78",
+    "name": "Crest Goods 1",
+    "slug": "crest-goods-1",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-78",
+    "rating": 4.9,
+    "originCountry": "South Korea",
+    "yearEstablished": 1957,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Crest Goods 1 collections."
+  },
+  {
+    "id": "brand-79",
+    "name": "Sartorial Goods 1",
+    "slug": "sartorial-goods-1",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-79",
+    "rating": 4.3,
+    "originCountry": "South Korea",
+    "yearEstablished": 1989,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Sartorial Goods 1 collections."
+  },
+  {
+    "id": "brand-80",
+    "name": "Verdant Goods 1",
+    "slug": "verdant-goods-1",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-80",
+    "rating": 4.4,
+    "originCountry": "UK",
+    "yearEstablished": 2014,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Verdant Goods 1 collections."
+  },
+  {
+    "id": "brand-81",
+    "name": "Pulse Goods 1",
+    "slug": "pulse-goods-1",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-81",
+    "rating": 4.5,
+    "originCountry": "USA",
+    "yearEstablished": 2009,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Pulse Goods 1 collections."
+  },
+  {
+    "id": "brand-82",
+    "name": "Oasis Goods 1",
+    "slug": "oasis-goods-1",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-82",
+    "rating": 4.5,
+    "originCountry": "Singapore",
+    "yearEstablished": 1983,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Oasis Goods 1 collections."
+  },
+  {
+    "id": "brand-83",
+    "name": "Volta Goods 1",
+    "slug": "volta-goods-1",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-83",
+    "rating": 4.5,
+    "originCountry": "Singapore",
+    "yearEstablished": 1970,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Volta Goods 1 collections."
+  },
+  {
+    "id": "brand-84",
+    "name": "Lumina Goods 1",
+    "slug": "lumina-goods-1",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-84",
+    "rating": 5,
+    "originCountry": "Germany",
+    "yearEstablished": 1964,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Lumina Goods 1 collections."
+  },
+  {
+    "id": "brand-85",
+    "name": "Quantum Instruments 1",
+    "slug": "quantum-instruments-1",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-85",
+    "rating": 4.8,
+    "originCountry": "UK",
+    "yearEstablished": 2019,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Quantum Instruments 1 collections."
+  },
+  {
+    "id": "brand-86",
+    "name": "Aether Instruments 1",
+    "slug": "aether-instruments-1",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-86",
+    "rating": 4.7,
+    "originCountry": "Singapore",
+    "yearEstablished": 1999,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Aether Instruments 1 collections."
+  },
+  {
+    "id": "brand-87",
+    "name": "Aura Instruments 1",
+    "slug": "aura-instruments-1",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-87",
+    "rating": 4.5,
+    "originCountry": "UK",
+    "yearEstablished": 1965,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Aura Instruments 1 collections."
+  },
+  {
+    "id": "brand-88",
+    "name": "Vanguard Instruments 1",
+    "slug": "vanguard-instruments-1",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-88",
+    "rating": 4.5,
+    "originCountry": "Singapore",
+    "yearEstablished": 1946,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Vanguard Instruments 1 collections."
+  },
+  {
+    "id": "brand-89",
+    "name": "Elysium Instruments 1",
+    "slug": "elysium-instruments-1",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-89",
+    "rating": 4.7,
+    "originCountry": "South Korea",
+    "yearEstablished": 1946,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Elysium Instruments 1 collections."
+  },
+  {
+    "id": "brand-90",
+    "name": "Meridian Instruments 1",
+    "slug": "meridian-instruments-1",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-90",
+    "rating": 4.3,
+    "originCountry": "UK",
+    "yearEstablished": 1948,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Meridian Instruments 1 collections."
+  },
+  {
+    "id": "brand-91",
+    "name": "Apex Instruments 1",
+    "slug": "apex-instruments-1",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-91",
+    "rating": 4.4,
+    "originCountry": "UK",
+    "yearEstablished": 2008,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Apex Instruments 1 collections."
+  },
+  {
+    "id": "brand-92",
+    "name": "Zenith Instruments 1",
+    "slug": "zenith-instruments-1",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-92",
+    "rating": 5,
+    "originCountry": "Singapore",
+    "yearEstablished": 2003,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Zenith Instruments 1 collections."
+  },
+  {
+    "id": "brand-93",
+    "name": "Equinox Instruments 1",
+    "slug": "equinox-instruments-1",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-93",
+    "rating": 4.7,
+    "originCountry": "Sweden",
+    "yearEstablished": 1935,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Equinox Instruments 1 collections."
+  },
+  {
+    "id": "brand-94",
+    "name": "Nova Instruments 1",
+    "slug": "nova-instruments-1",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-94",
+    "rating": 4.7,
+    "originCountry": "Italy",
+    "yearEstablished": 1978,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Nova Instruments 1 collections."
+  },
+  {
+    "id": "brand-95",
+    "name": "Crest Instruments 1",
+    "slug": "crest-instruments-1",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-95",
+    "rating": 4.3,
+    "originCountry": "USA",
+    "yearEstablished": 1943,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Crest Instruments 1 collections."
+  },
+  {
+    "id": "brand-96",
+    "name": "Sartorial Instruments 1",
+    "slug": "sartorial-instruments-1",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-96",
+    "rating": 4.9,
+    "originCountry": "Italy",
+    "yearEstablished": 1951,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Sartorial Instruments 1 collections."
+  },
+  {
+    "id": "brand-97",
+    "name": "Verdant Instruments 1",
+    "slug": "verdant-instruments-1",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-97",
+    "rating": 4.9,
+    "originCountry": "Singapore",
+    "yearEstablished": 1971,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Verdant Instruments 1 collections."
+  },
+  {
+    "id": "brand-98",
+    "name": "Pulse Instruments 1",
+    "slug": "pulse-instruments-1",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-98",
+    "rating": 4.3,
+    "originCountry": "Japan",
+    "yearEstablished": 2006,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Pulse Instruments 1 collections."
+  },
+  {
+    "id": "brand-99",
+    "name": "Oasis Instruments 1",
+    "slug": "oasis-instruments-1",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-99",
+    "rating": 4.9,
+    "originCountry": "USA",
+    "yearEstablished": 1991,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Oasis Instruments 1 collections."
+  },
+  {
+    "id": "brand-100",
+    "name": "Volta Instruments 1",
+    "slug": "volta-instruments-1",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-100",
+    "rating": 4.9,
+    "originCountry": "Singapore",
+    "yearEstablished": 2021,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Volta Instruments 1 collections."
+  },
+  {
+    "id": "brand-101",
+    "name": "Lumina Instruments 2",
+    "slug": "lumina-instruments-2",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-101",
+    "rating": 4.6,
+    "originCountry": "USA",
+    "yearEstablished": 1938,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Lumina Instruments 2 collections."
+  },
+  {
+    "id": "brand-102",
+    "name": "Quantum Styles 2",
+    "slug": "quantum-styles-2",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-102",
+    "rating": 4.2,
+    "originCountry": "UK",
+    "yearEstablished": 1970,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Quantum Styles 2 collections."
+  },
+  {
+    "id": "brand-103",
+    "name": "Aether Styles 2",
+    "slug": "aether-styles-2",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-103",
+    "rating": 4.3,
+    "originCountry": "UK",
+    "yearEstablished": 2002,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Aether Styles 2 collections."
+  },
+  {
+    "id": "brand-104",
+    "name": "Aura Styles 2",
+    "slug": "aura-styles-2",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-104",
+    "rating": 4.3,
+    "originCountry": "Germany",
+    "yearEstablished": 1948,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Aura Styles 2 collections."
+  },
+  {
+    "id": "brand-105",
+    "name": "Vanguard Styles 2",
+    "slug": "vanguard-styles-2",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-105",
+    "rating": 4.2,
+    "originCountry": "UK",
+    "yearEstablished": 1941,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Vanguard Styles 2 collections."
+  },
+  {
+    "id": "brand-106",
+    "name": "Elysium Styles 2",
+    "slug": "elysium-styles-2",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-106",
+    "rating": 4.4,
+    "originCountry": "South Korea",
+    "yearEstablished": 1956,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Elysium Styles 2 collections."
+  },
+  {
+    "id": "brand-107",
+    "name": "Meridian Styles 2",
+    "slug": "meridian-styles-2",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-107",
+    "rating": 4.2,
+    "originCountry": "Italy",
+    "yearEstablished": 2021,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Meridian Styles 2 collections."
+  },
+  {
+    "id": "brand-108",
+    "name": "Apex Styles 2",
+    "slug": "apex-styles-2",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-108",
+    "rating": 4.9,
+    "originCountry": "Japan",
+    "yearEstablished": 1957,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Apex Styles 2 collections."
+  },
+  {
+    "id": "brand-109",
+    "name": "Zenith Styles 2",
+    "slug": "zenith-styles-2",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-109",
+    "rating": 4.8,
+    "originCountry": "Italy",
+    "yearEstablished": 2002,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Zenith Styles 2 collections."
+  },
+  {
+    "id": "brand-110",
+    "name": "Equinox Styles 2",
+    "slug": "equinox-styles-2",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-110",
+    "rating": 4.8,
+    "originCountry": "Singapore",
+    "yearEstablished": 1961,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Equinox Styles 2 collections."
+  },
+  {
+    "id": "brand-111",
+    "name": "Nova Styles 2",
+    "slug": "nova-styles-2",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-111",
+    "rating": 4.7,
+    "originCountry": "Singapore",
+    "yearEstablished": 1928,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Nova Styles 2 collections."
+  },
+  {
+    "id": "brand-112",
+    "name": "Crest Styles 2",
+    "slug": "crest-styles-2",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-112",
+    "rating": 4.6,
+    "originCountry": "Singapore",
+    "yearEstablished": 1965,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Crest Styles 2 collections."
+  },
+  {
+    "id": "brand-113",
+    "name": "Sartorial Styles 2",
+    "slug": "sartorial-styles-2",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-113",
+    "rating": 4.4,
+    "originCountry": "Singapore",
+    "yearEstablished": 1928,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Sartorial Styles 2 collections."
+  },
+  {
+    "id": "brand-114",
+    "name": "Verdant Styles 2",
+    "slug": "verdant-styles-2",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-114",
+    "rating": 4.9,
+    "originCountry": "Germany",
+    "yearEstablished": 1920,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Verdant Styles 2 collections."
+  },
+  {
+    "id": "brand-115",
+    "name": "Pulse Styles 2",
+    "slug": "pulse-styles-2",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-115",
+    "rating": 5,
+    "originCountry": "South Korea",
+    "yearEstablished": 1958,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Pulse Styles 2 collections."
+  },
+  {
+    "id": "brand-116",
+    "name": "Oasis Styles 2",
+    "slug": "oasis-styles-2",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-116",
+    "rating": 4.8,
+    "originCountry": "Germany",
+    "yearEstablished": 1981,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Oasis Styles 2 collections."
+  },
+  {
+    "id": "brand-117",
+    "name": "Volta Styles 2",
+    "slug": "volta-styles-2",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-117",
+    "rating": 4.7,
+    "originCountry": "Italy",
+    "yearEstablished": 1983,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Volta Styles 2 collections."
+  },
+  {
+    "id": "brand-118",
+    "name": "Lumina Styles 2",
+    "slug": "lumina-styles-2",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-118",
+    "rating": 4.5,
+    "originCountry": "South Korea",
+    "yearEstablished": 1972,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Lumina Styles 2 collections."
+  },
+  {
+    "id": "brand-119",
+    "name": "Quantum Acoustics 2",
+    "slug": "quantum-acoustics-2",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-119",
+    "rating": 4.7,
+    "originCountry": "Germany",
+    "yearEstablished": 1986,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Quantum Acoustics 2 collections."
+  },
+  {
+    "id": "brand-120",
+    "name": "Aether Acoustics 2",
+    "slug": "aether-acoustics-2",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-120",
+    "rating": 4.4,
+    "originCountry": "Germany",
+    "yearEstablished": 2011,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Aether Acoustics 2 collections."
+  },
+  {
+    "id": "brand-121",
+    "name": "Aura Acoustics 2",
+    "slug": "aura-acoustics-2",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-121",
+    "rating": 4.4,
+    "originCountry": "Singapore",
+    "yearEstablished": 2017,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Aura Acoustics 2 collections."
+  },
+  {
+    "id": "brand-122",
+    "name": "Vanguard Acoustics 2",
+    "slug": "vanguard-acoustics-2",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-122",
+    "rating": 4.6,
+    "originCountry": "Italy",
+    "yearEstablished": 2013,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Vanguard Acoustics 2 collections."
+  },
+  {
+    "id": "brand-123",
+    "name": "Elysium Acoustics 2",
+    "slug": "elysium-acoustics-2",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-123",
+    "rating": 4.5,
+    "originCountry": "UK",
+    "yearEstablished": 1962,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Elysium Acoustics 2 collections."
+  },
+  {
+    "id": "brand-124",
+    "name": "Meridian Acoustics 2",
+    "slug": "meridian-acoustics-2",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-124",
+    "rating": 4.7,
+    "originCountry": "Germany",
+    "yearEstablished": 1985,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Meridian Acoustics 2 collections."
+  },
+  {
+    "id": "brand-125",
+    "name": "Apex Acoustics 2",
+    "slug": "apex-acoustics-2",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-125",
+    "rating": 4.3,
+    "originCountry": "Germany",
+    "yearEstablished": 1952,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Apex Acoustics 2 collections."
+  },
+  {
+    "id": "brand-126",
+    "name": "Zenith Acoustics 2",
+    "slug": "zenith-acoustics-2",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-126",
+    "rating": 4.4,
+    "originCountry": "Singapore",
+    "yearEstablished": 2018,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Zenith Acoustics 2 collections."
+  },
+  {
+    "id": "brand-127",
+    "name": "Equinox Acoustics 2",
+    "slug": "equinox-acoustics-2",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-127",
+    "rating": 5,
+    "originCountry": "Japan",
+    "yearEstablished": 1974,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Equinox Acoustics 2 collections."
+  },
+  {
+    "id": "brand-128",
+    "name": "Nova Acoustics 2",
+    "slug": "nova-acoustics-2",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-128",
+    "rating": 4.9,
+    "originCountry": "South Korea",
+    "yearEstablished": 1927,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Nova Acoustics 2 collections."
+  },
+  {
+    "id": "brand-129",
+    "name": "Crest Acoustics 2",
+    "slug": "crest-acoustics-2",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-129",
+    "rating": 4.5,
+    "originCountry": "Sweden",
+    "yearEstablished": 2019,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Crest Acoustics 2 collections."
+  },
+  {
+    "id": "brand-130",
+    "name": "Sartorial Acoustics 2",
+    "slug": "sartorial-acoustics-2",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-130",
+    "rating": 4.4,
+    "originCountry": "Sweden",
+    "yearEstablished": 1964,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Sartorial Acoustics 2 collections."
+  },
+  {
+    "id": "brand-131",
+    "name": "Verdant Acoustics 2",
+    "slug": "verdant-acoustics-2",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-131",
+    "rating": 4.6,
+    "originCountry": "USA",
+    "yearEstablished": 1981,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Verdant Acoustics 2 collections."
+  },
+  {
+    "id": "brand-132",
+    "name": "Pulse Acoustics 2",
+    "slug": "pulse-acoustics-2",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-132",
+    "rating": 4.5,
+    "originCountry": "Germany",
+    "yearEstablished": 1972,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Pulse Acoustics 2 collections."
+  },
+  {
+    "id": "brand-133",
+    "name": "Oasis Acoustics 2",
+    "slug": "oasis-acoustics-2",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-133",
+    "rating": 4.7,
+    "originCountry": "USA",
+    "yearEstablished": 1981,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Oasis Acoustics 2 collections."
+  },
+  {
+    "id": "brand-134",
+    "name": "Volta Acoustics 2",
+    "slug": "volta-acoustics-2",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-134",
+    "rating": 4.3,
+    "originCountry": "USA",
+    "yearEstablished": 2011,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Volta Acoustics 2 collections."
+  },
+  {
+    "id": "brand-135",
+    "name": "Lumina Acoustics 2",
+    "slug": "lumina-acoustics-2",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-135",
+    "rating": 4.6,
+    "originCountry": "Germany",
+    "yearEstablished": 1981,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Lumina Acoustics 2 collections."
+  },
+  {
+    "id": "brand-136",
+    "name": "Quantum Athletics 2",
+    "slug": "quantum-athletics-2",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-136",
+    "rating": 4.5,
+    "originCountry": "USA",
+    "yearEstablished": 1944,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Quantum Athletics 2 collections."
+  },
+  {
+    "id": "brand-137",
+    "name": "Aether Athletics 2",
+    "slug": "aether-athletics-2",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-137",
+    "rating": 4.2,
+    "originCountry": "Japan",
+    "yearEstablished": 2002,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Aether Athletics 2 collections."
+  },
+  {
+    "id": "brand-138",
+    "name": "Aura Athletics 2",
+    "slug": "aura-athletics-2",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-138",
+    "rating": 4.9,
+    "originCountry": "USA",
+    "yearEstablished": 1971,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Aura Athletics 2 collections."
+  },
+  {
+    "id": "brand-139",
+    "name": "Vanguard Athletics 2",
+    "slug": "vanguard-athletics-2",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-139",
+    "rating": 5,
+    "originCountry": "Italy",
+    "yearEstablished": 2007,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Vanguard Athletics 2 collections."
+  },
+  {
+    "id": "brand-140",
+    "name": "Elysium Athletics 2",
+    "slug": "elysium-athletics-2",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-140",
+    "rating": 4.6,
+    "originCountry": "UK",
+    "yearEstablished": 2005,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Elysium Athletics 2 collections."
+  },
+  {
+    "id": "brand-141",
+    "name": "Meridian Athletics 2",
+    "slug": "meridian-athletics-2",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-141",
+    "rating": 4.2,
+    "originCountry": "Germany",
+    "yearEstablished": 1944,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Meridian Athletics 2 collections."
+  },
+  {
+    "id": "brand-142",
+    "name": "Apex Athletics 2",
+    "slug": "apex-athletics-2",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-142",
+    "rating": 4.9,
+    "originCountry": "South Korea",
+    "yearEstablished": 1961,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Apex Athletics 2 collections."
+  },
+  {
+    "id": "brand-143",
+    "name": "Zenith Athletics 2",
+    "slug": "zenith-athletics-2",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-143",
+    "rating": 4.3,
+    "originCountry": "Sweden",
+    "yearEstablished": 1937,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Zenith Athletics 2 collections."
+  },
+  {
+    "id": "brand-144",
+    "name": "Equinox Athletics 2",
+    "slug": "equinox-athletics-2",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-144",
+    "rating": 5,
+    "originCountry": "UK",
+    "yearEstablished": 1937,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Equinox Athletics 2 collections."
+  },
+  {
+    "id": "brand-145",
+    "name": "Nova Athletics 2",
+    "slug": "nova-athletics-2",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-145",
+    "rating": 4.2,
+    "originCountry": "Italy",
+    "yearEstablished": 1998,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Nova Athletics 2 collections."
+  },
+  {
+    "id": "brand-146",
+    "name": "Crest Athletics 2",
+    "slug": "crest-athletics-2",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-146",
+    "rating": 4.5,
+    "originCountry": "Singapore",
+    "yearEstablished": 2015,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Crest Athletics 2 collections."
+  },
+  {
+    "id": "brand-147",
+    "name": "Sartorial Athletics 2",
+    "slug": "sartorial-athletics-2",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-147",
+    "rating": 4.8,
+    "originCountry": "South Korea",
+    "yearEstablished": 1985,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Sartorial Athletics 2 collections."
+  },
+  {
+    "id": "brand-148",
+    "name": "Verdant Athletics 2",
+    "slug": "verdant-athletics-2",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-148",
+    "rating": 4.9,
+    "originCountry": "Germany",
+    "yearEstablished": 1980,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Verdant Athletics 2 collections."
+  },
+  {
+    "id": "brand-149",
+    "name": "Pulse Athletics 2",
+    "slug": "pulse-athletics-2",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-149",
+    "rating": 4.3,
+    "originCountry": "South Korea",
+    "yearEstablished": 1939,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Pulse Athletics 2 collections."
+  },
+  {
+    "id": "brand-150",
+    "name": "Oasis Athletics 2",
+    "slug": "oasis-athletics-2",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-150",
+    "rating": 4.9,
+    "originCountry": "South Korea",
+    "yearEstablished": 2011,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Oasis Athletics 2 collections."
+  },
+  {
+    "id": "brand-151",
+    "name": "Volta Athletics 2",
+    "slug": "volta-athletics-2",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-151",
+    "rating": 5,
+    "originCountry": "USA",
+    "yearEstablished": 2016,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Volta Athletics 2 collections."
+  },
+  {
+    "id": "brand-152",
+    "name": "Lumina Athletics 2",
+    "slug": "lumina-athletics-2",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-152",
+    "rating": 4.6,
+    "originCountry": "UK",
+    "yearEstablished": 1932,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Lumina Athletics 2 collections."
+  },
+  {
+    "id": "brand-153",
+    "name": "Quantum Concepts 2",
+    "slug": "quantum-concepts-2",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-153",
+    "rating": 5,
+    "originCountry": "USA",
+    "yearEstablished": 1997,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Quantum Concepts 2 collections."
+  },
+  {
+    "id": "brand-154",
+    "name": "Aether Concepts 2",
+    "slug": "aether-concepts-2",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-154",
+    "rating": 4.5,
+    "originCountry": "UK",
+    "yearEstablished": 1945,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Aether Concepts 2 collections."
+  },
+  {
+    "id": "brand-155",
+    "name": "Aura Concepts 2",
+    "slug": "aura-concepts-2",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-155",
+    "rating": 4.9,
+    "originCountry": "Japan",
+    "yearEstablished": 1955,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Aura Concepts 2 collections."
+  },
+  {
+    "id": "brand-156",
+    "name": "Vanguard Concepts 2",
+    "slug": "vanguard-concepts-2",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-156",
+    "rating": 4.9,
+    "originCountry": "Japan",
+    "yearEstablished": 2001,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Vanguard Concepts 2 collections."
+  },
+  {
+    "id": "brand-157",
+    "name": "Elysium Concepts 2",
+    "slug": "elysium-concepts-2",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-157",
+    "rating": 4.2,
+    "originCountry": "Japan",
+    "yearEstablished": 1987,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Elysium Concepts 2 collections."
+  },
+  {
+    "id": "brand-158",
+    "name": "Meridian Concepts 2",
+    "slug": "meridian-concepts-2",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-158",
+    "rating": 4.4,
+    "originCountry": "USA",
+    "yearEstablished": 1968,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Meridian Concepts 2 collections."
+  },
+  {
+    "id": "brand-159",
+    "name": "Apex Concepts 2",
+    "slug": "apex-concepts-2",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-159",
+    "rating": 4.7,
+    "originCountry": "Germany",
+    "yearEstablished": 1966,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Apex Concepts 2 collections."
+  },
+  {
+    "id": "brand-160",
+    "name": "Zenith Concepts 2",
+    "slug": "zenith-concepts-2",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-160",
+    "rating": 4.6,
+    "originCountry": "UK",
+    "yearEstablished": 2022,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Zenith Concepts 2 collections."
+  },
+  {
+    "id": "brand-161",
+    "name": "Equinox Concepts 2",
+    "slug": "equinox-concepts-2",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-161",
+    "rating": 4.3,
+    "originCountry": "UK",
+    "yearEstablished": 1998,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Equinox Concepts 2 collections."
+  },
+  {
+    "id": "brand-162",
+    "name": "Nova Concepts 2",
+    "slug": "nova-concepts-2",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-162",
+    "rating": 4.5,
+    "originCountry": "South Korea",
+    "yearEstablished": 1972,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Nova Concepts 2 collections."
+  },
+  {
+    "id": "brand-163",
+    "name": "Crest Concepts 2",
+    "slug": "crest-concepts-2",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-163",
+    "rating": 4.9,
+    "originCountry": "Japan",
+    "yearEstablished": 1970,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Crest Concepts 2 collections."
+  },
+  {
+    "id": "brand-164",
+    "name": "Sartorial Concepts 2",
+    "slug": "sartorial-concepts-2",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-164",
+    "rating": 4.9,
+    "originCountry": "Sweden",
+    "yearEstablished": 1958,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Sartorial Concepts 2 collections."
+  },
+  {
+    "id": "brand-165",
+    "name": "Verdant Concepts 2",
+    "slug": "verdant-concepts-2",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-165",
+    "rating": 5,
+    "originCountry": "Japan",
+    "yearEstablished": 1991,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Verdant Concepts 2 collections."
+  },
+  {
+    "id": "brand-166",
+    "name": "Pulse Concepts 2",
+    "slug": "pulse-concepts-2",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-166",
+    "rating": 4.5,
+    "originCountry": "Singapore",
+    "yearEstablished": 1923,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Pulse Concepts 2 collections."
+  },
+  {
+    "id": "brand-167",
+    "name": "Oasis Concepts 2",
+    "slug": "oasis-concepts-2",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-167",
+    "rating": 4.3,
+    "originCountry": "Italy",
+    "yearEstablished": 1929,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Oasis Concepts 2 collections."
+  },
+  {
+    "id": "brand-168",
+    "name": "Volta Concepts 2",
+    "slug": "volta-concepts-2",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-168",
+    "rating": 4.4,
+    "originCountry": "South Korea",
+    "yearEstablished": 1986,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Volta Concepts 2 collections."
+  },
+  {
+    "id": "brand-169",
+    "name": "Lumina Concepts 2",
+    "slug": "lumina-concepts-2",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-169",
+    "rating": 4.7,
+    "originCountry": "South Korea",
+    "yearEstablished": 1937,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Lumina Concepts 2 collections."
+  },
+  {
+    "id": "brand-170",
+    "name": "Quantum Pro 2",
+    "slug": "quantum-pro-2",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-170",
+    "rating": 4.8,
+    "originCountry": "Sweden",
+    "yearEstablished": 1934,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Quantum Pro 2 collections."
+  },
+  {
+    "id": "brand-171",
+    "name": "Aether Pro 2",
+    "slug": "aether-pro-2",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-171",
+    "rating": 4.4,
+    "originCountry": "Sweden",
+    "yearEstablished": 1925,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Aether Pro 2 collections."
+  },
+  {
+    "id": "brand-172",
+    "name": "Aura Pro 2",
+    "slug": "aura-pro-2",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-172",
+    "rating": 4.9,
+    "originCountry": "UK",
+    "yearEstablished": 2013,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Aura Pro 2 collections."
+  },
+  {
+    "id": "brand-173",
+    "name": "Vanguard Pro 2",
+    "slug": "vanguard-pro-2",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-173",
+    "rating": 4.7,
+    "originCountry": "Sweden",
+    "yearEstablished": 2019,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Vanguard Pro 2 collections."
+  },
+  {
+    "id": "brand-174",
+    "name": "Elysium Pro 2",
+    "slug": "elysium-pro-2",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-174",
+    "rating": 4.6,
+    "originCountry": "Japan",
+    "yearEstablished": 1976,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Elysium Pro 2 collections."
+  },
+  {
+    "id": "brand-175",
+    "name": "Meridian Pro 2",
+    "slug": "meridian-pro-2",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-175",
+    "rating": 4.7,
+    "originCountry": "Germany",
+    "yearEstablished": 1974,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Meridian Pro 2 collections."
+  },
+  {
+    "id": "brand-176",
+    "name": "Apex Pro 2",
+    "slug": "apex-pro-2",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-176",
+    "rating": 5,
+    "originCountry": "Germany",
+    "yearEstablished": 2007,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Apex Pro 2 collections."
+  },
+  {
+    "id": "brand-177",
+    "name": "Zenith Pro 2",
+    "slug": "zenith-pro-2",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-177",
+    "rating": 4.4,
+    "originCountry": "Singapore",
+    "yearEstablished": 1967,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Zenith Pro 2 collections."
+  },
+  {
+    "id": "brand-178",
+    "name": "Equinox Pro 2",
+    "slug": "equinox-pro-2",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-178",
+    "rating": 4.5,
+    "originCountry": "South Korea",
+    "yearEstablished": 1949,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Equinox Pro 2 collections."
+  },
+  {
+    "id": "brand-179",
+    "name": "Nova Pro 2",
+    "slug": "nova-pro-2",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-179",
+    "rating": 4.9,
+    "originCountry": "Singapore",
+    "yearEstablished": 1923,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Nova Pro 2 collections."
+  },
+  {
+    "id": "brand-180",
+    "name": "Crest Pro 2",
+    "slug": "crest-pro-2",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-180",
+    "rating": 4.7,
+    "originCountry": "UK",
+    "yearEstablished": 2023,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Crest Pro 2 collections."
+  },
+  {
+    "id": "brand-181",
+    "name": "Sartorial Pro 2",
+    "slug": "sartorial-pro-2",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-181",
+    "rating": 4.9,
+    "originCountry": "USA",
+    "yearEstablished": 1984,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Sartorial Pro 2 collections."
+  },
+  {
+    "id": "brand-182",
+    "name": "Verdant Pro 2",
+    "slug": "verdant-pro-2",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-182",
+    "rating": 4.7,
+    "originCountry": "Singapore",
+    "yearEstablished": 1974,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Verdant Pro 2 collections."
+  },
+  {
+    "id": "brand-183",
+    "name": "Pulse Pro 2",
+    "slug": "pulse-pro-2",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-183",
+    "rating": 4.3,
+    "originCountry": "Germany",
+    "yearEstablished": 1966,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Pulse Pro 2 collections."
+  },
+  {
+    "id": "brand-184",
+    "name": "Oasis Pro 2",
+    "slug": "oasis-pro-2",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-184",
+    "rating": 4.7,
+    "originCountry": "Italy",
+    "yearEstablished": 1990,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Oasis Pro 2 collections."
+  },
+  {
+    "id": "brand-185",
+    "name": "Volta Pro 2",
+    "slug": "volta-pro-2",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-185",
+    "rating": 4.3,
+    "originCountry": "Germany",
+    "yearEstablished": 1968,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Volta Pro 2 collections."
+  },
+  {
+    "id": "brand-186",
+    "name": "Lumina Pro 2",
+    "slug": "lumina-pro-2",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-186",
+    "rating": 4.5,
+    "originCountry": "Sweden",
+    "yearEstablished": 1932,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Lumina Pro 2 collections."
+  },
+  {
+    "id": "brand-187",
+    "name": "Quantum Studio 2",
+    "slug": "quantum-studio-2",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-187",
+    "rating": 4.9,
+    "originCountry": "UK",
+    "yearEstablished": 1998,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Quantum Studio 2 collections."
+  },
+  {
+    "id": "brand-188",
+    "name": "Aether Studio 2",
+    "slug": "aether-studio-2",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-188",
+    "rating": 4.9,
+    "originCountry": "Italy",
+    "yearEstablished": 2004,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Aether Studio 2 collections."
+  },
+  {
+    "id": "brand-189",
+    "name": "Aura Studio 2",
+    "slug": "aura-studio-2",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-189",
+    "rating": 4.3,
+    "originCountry": "Sweden",
+    "yearEstablished": 2015,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Aura Studio 2 collections."
+  },
+  {
+    "id": "brand-190",
+    "name": "Vanguard Studio 2",
+    "slug": "vanguard-studio-2",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-190",
+    "rating": 4.9,
+    "originCountry": "USA",
+    "yearEstablished": 1988,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Vanguard Studio 2 collections."
+  },
+  {
+    "id": "brand-191",
+    "name": "Elysium Studio 2",
+    "slug": "elysium-studio-2",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-191",
+    "rating": 4.5,
+    "originCountry": "South Korea",
+    "yearEstablished": 2013,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Elysium Studio 2 collections."
+  },
+  {
+    "id": "brand-192",
+    "name": "Meridian Studio 2",
+    "slug": "meridian-studio-2",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-192",
+    "rating": 4.7,
+    "originCountry": "Japan",
+    "yearEstablished": 1925,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Meridian Studio 2 collections."
+  },
+  {
+    "id": "brand-193",
+    "name": "Apex Studio 2",
+    "slug": "apex-studio-2",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-193",
+    "rating": 4.9,
+    "originCountry": "Germany",
+    "yearEstablished": 2020,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Apex Studio 2 collections."
+  },
+  {
+    "id": "brand-194",
+    "name": "Zenith Studio 2",
+    "slug": "zenith-studio-2",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-194",
+    "rating": 4.7,
+    "originCountry": "Sweden",
+    "yearEstablished": 1987,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Zenith Studio 2 collections."
+  },
+  {
+    "id": "brand-195",
+    "name": "Equinox Studio 2",
+    "slug": "equinox-studio-2",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-195",
+    "rating": 4.8,
+    "originCountry": "Sweden",
+    "yearEstablished": 1948,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Equinox Studio 2 collections."
+  },
+  {
+    "id": "brand-196",
+    "name": "Nova Studio 2",
+    "slug": "nova-studio-2",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-196",
+    "rating": 4.4,
+    "originCountry": "Singapore",
+    "yearEstablished": 1988,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Nova Studio 2 collections."
+  },
+  {
+    "id": "brand-197",
+    "name": "Crest Studio 2",
+    "slug": "crest-studio-2",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-197",
+    "rating": 4.5,
+    "originCountry": "Italy",
+    "yearEstablished": 1922,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Crest Studio 2 collections."
+  },
+  {
+    "id": "brand-198",
+    "name": "Sartorial Studio 2",
+    "slug": "sartorial-studio-2",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-198",
+    "rating": 4.9,
+    "originCountry": "Sweden",
+    "yearEstablished": 1946,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Sartorial Studio 2 collections."
+  },
+  {
+    "id": "brand-199",
+    "name": "Verdant Studio 2",
+    "slug": "verdant-studio-2",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-199",
+    "rating": 5,
+    "originCountry": "UK",
+    "yearEstablished": 1983,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Verdant Studio 2 collections."
+  },
+  {
+    "id": "brand-200",
+    "name": "Pulse Studio 2",
+    "slug": "pulse-studio-2",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-200",
+    "rating": 4.6,
+    "originCountry": "Italy",
+    "yearEstablished": 1962,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Pulse Studio 2 collections."
+  },
+  {
+    "id": "brand-201",
+    "name": "Oasis Studio 3",
+    "slug": "oasis-studio-3",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-201",
+    "rating": 4.6,
+    "originCountry": "UK",
+    "yearEstablished": 1942,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Oasis Studio 3 collections."
+  },
+  {
+    "id": "brand-202",
+    "name": "Volta Studio 3",
+    "slug": "volta-studio-3",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-202",
+    "rating": 4.5,
+    "originCountry": "Japan",
+    "yearEstablished": 1947,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Volta Studio 3 collections."
+  },
+  {
+    "id": "brand-203",
+    "name": "Lumina Studio 3",
+    "slug": "lumina-studio-3",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-203",
+    "rating": 4.9,
+    "originCountry": "Italy",
+    "yearEstablished": 2020,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Lumina Studio 3 collections."
+  },
+  {
+    "id": "brand-204",
+    "name": "Quantum Wear 3",
+    "slug": "quantum-wear-3",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-204",
+    "rating": 4.9,
+    "originCountry": "Japan",
+    "yearEstablished": 1952,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Quantum Wear 3 collections."
+  },
+  {
+    "id": "brand-205",
+    "name": "Aether Wear 3",
+    "slug": "aether-wear-3",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-205",
+    "rating": 4.2,
+    "originCountry": "Singapore",
+    "yearEstablished": 1969,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Aether Wear 3 collections."
+  },
+  {
+    "id": "brand-206",
+    "name": "Aura Wear 3",
+    "slug": "aura-wear-3",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-206",
+    "rating": 4.7,
+    "originCountry": "South Korea",
+    "yearEstablished": 1995,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Aura Wear 3 collections."
+  },
+  {
+    "id": "brand-207",
+    "name": "Vanguard Wear 3",
+    "slug": "vanguard-wear-3",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-207",
+    "rating": 4.8,
+    "originCountry": "South Korea",
+    "yearEstablished": 2013,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Vanguard Wear 3 collections."
+  },
+  {
+    "id": "brand-208",
+    "name": "Elysium Wear 3",
+    "slug": "elysium-wear-3",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-208",
+    "rating": 4.3,
+    "originCountry": "Sweden",
+    "yearEstablished": 2017,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Elysium Wear 3 collections."
+  },
+  {
+    "id": "brand-209",
+    "name": "Meridian Wear 3",
+    "slug": "meridian-wear-3",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-209",
+    "rating": 4.6,
+    "originCountry": "UK",
+    "yearEstablished": 2005,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Meridian Wear 3 collections."
+  },
+  {
+    "id": "brand-210",
+    "name": "Apex Wear 3",
+    "slug": "apex-wear-3",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-210",
+    "rating": 4.9,
+    "originCountry": "South Korea",
+    "yearEstablished": 1971,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Apex Wear 3 collections."
+  },
+  {
+    "id": "brand-211",
+    "name": "Zenith Wear 3",
+    "slug": "zenith-wear-3",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-211",
+    "rating": 4.8,
+    "originCountry": "UK",
+    "yearEstablished": 1934,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Zenith Wear 3 collections."
+  },
+  {
+    "id": "brand-212",
+    "name": "Equinox Wear 3",
+    "slug": "equinox-wear-3",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-212",
+    "rating": 5,
+    "originCountry": "USA",
+    "yearEstablished": 1934,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Equinox Wear 3 collections."
+  },
+  {
+    "id": "brand-213",
+    "name": "Nova Wear 3",
+    "slug": "nova-wear-3",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-213",
+    "rating": 4.6,
+    "originCountry": "Singapore",
+    "yearEstablished": 1947,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Nova Wear 3 collections."
+  },
+  {
+    "id": "brand-214",
+    "name": "Crest Wear 3",
+    "slug": "crest-wear-3",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-214",
+    "rating": 4.3,
+    "originCountry": "Italy",
+    "yearEstablished": 2001,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Crest Wear 3 collections."
+  },
+  {
+    "id": "brand-215",
+    "name": "Sartorial Wear 3",
+    "slug": "sartorial-wear-3",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-215",
+    "rating": 4.3,
+    "originCountry": "Japan",
+    "yearEstablished": 1922,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Sartorial Wear 3 collections."
+  },
+  {
+    "id": "brand-216",
+    "name": "Verdant Wear 3",
+    "slug": "verdant-wear-3",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-216",
+    "rating": 4.5,
+    "originCountry": "Sweden",
+    "yearEstablished": 1966,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Verdant Wear 3 collections."
+  },
+  {
+    "id": "brand-217",
+    "name": "Pulse Wear 3",
+    "slug": "pulse-wear-3",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-217",
+    "rating": 5,
+    "originCountry": "South Korea",
+    "yearEstablished": 2016,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Pulse Wear 3 collections."
+  },
+  {
+    "id": "brand-218",
+    "name": "Oasis Wear 3",
+    "slug": "oasis-wear-3",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-218",
+    "rating": 4.3,
+    "originCountry": "Italy",
+    "yearEstablished": 1976,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Oasis Wear 3 collections."
+  },
+  {
+    "id": "brand-219",
+    "name": "Volta Wear 3",
+    "slug": "volta-wear-3",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-219",
+    "rating": 5,
+    "originCountry": "Sweden",
+    "yearEstablished": 1937,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Volta Wear 3 collections."
+  },
+  {
+    "id": "brand-220",
+    "name": "Lumina Wear 3",
+    "slug": "lumina-wear-3",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-220",
+    "rating": 4.7,
+    "originCountry": "Japan",
+    "yearEstablished": 1944,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Lumina Wear 3 collections."
+  },
+  {
+    "id": "brand-221",
+    "name": "Quantum Labs 3",
+    "slug": "quantum-labs-3",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-221",
+    "rating": 4.5,
+    "originCountry": "Japan",
+    "yearEstablished": 2021,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Quantum Labs 3 collections."
+  },
+  {
+    "id": "brand-222",
+    "name": "Aether Labs 3",
+    "slug": "aether-labs-3",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-222",
+    "rating": 4.5,
+    "originCountry": "Italy",
+    "yearEstablished": 1994,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Aether Labs 3 collections."
+  },
+  {
+    "id": "brand-223",
+    "name": "Aura Labs 3",
+    "slug": "aura-labs-3",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-223",
+    "rating": 4.5,
+    "originCountry": "Sweden",
+    "yearEstablished": 1948,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Aura Labs 3 collections."
+  },
+  {
+    "id": "brand-224",
+    "name": "Vanguard Labs 3",
+    "slug": "vanguard-labs-3",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-224",
+    "rating": 4.9,
+    "originCountry": "Italy",
+    "yearEstablished": 1991,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Vanguard Labs 3 collections."
+  },
+  {
+    "id": "brand-225",
+    "name": "Elysium Labs 3",
+    "slug": "elysium-labs-3",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-225",
+    "rating": 4.7,
+    "originCountry": "Japan",
+    "yearEstablished": 1933,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Elysium Labs 3 collections."
+  },
+  {
+    "id": "brand-226",
+    "name": "Meridian Labs 3",
+    "slug": "meridian-labs-3",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-226",
+    "rating": 4.3,
+    "originCountry": "Sweden",
+    "yearEstablished": 2015,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Meridian Labs 3 collections."
+  },
+  {
+    "id": "brand-227",
+    "name": "Apex Labs 3",
+    "slug": "apex-labs-3",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-227",
+    "rating": 4.7,
+    "originCountry": "Germany",
+    "yearEstablished": 1925,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Apex Labs 3 collections."
+  },
+  {
+    "id": "brand-228",
+    "name": "Zenith Labs 3",
+    "slug": "zenith-labs-3",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-228",
+    "rating": 4.8,
+    "originCountry": "Italy",
+    "yearEstablished": 1938,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Zenith Labs 3 collections."
+  },
+  {
+    "id": "brand-229",
+    "name": "Equinox Labs 3",
+    "slug": "equinox-labs-3",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-229",
+    "rating": 4.9,
+    "originCountry": "UK",
+    "yearEstablished": 1966,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Equinox Labs 3 collections."
+  },
+  {
+    "id": "brand-230",
+    "name": "Nova Labs 3",
+    "slug": "nova-labs-3",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-230",
+    "rating": 4.9,
+    "originCountry": "Japan",
+    "yearEstablished": 1938,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Nova Labs 3 collections."
+  },
+  {
+    "id": "brand-231",
+    "name": "Crest Labs 3",
+    "slug": "crest-labs-3",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-231",
+    "rating": 4.3,
+    "originCountry": "USA",
+    "yearEstablished": 1920,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Crest Labs 3 collections."
+  },
+  {
+    "id": "brand-232",
+    "name": "Sartorial Labs 3",
+    "slug": "sartorial-labs-3",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-232",
+    "rating": 4.4,
+    "originCountry": "Germany",
+    "yearEstablished": 1941,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Sartorial Labs 3 collections."
+  },
+  {
+    "id": "brand-233",
+    "name": "Verdant Labs 3",
+    "slug": "verdant-labs-3",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-233",
+    "rating": 4.3,
+    "originCountry": "Sweden",
+    "yearEstablished": 1946,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Verdant Labs 3 collections."
+  },
+  {
+    "id": "brand-234",
+    "name": "Pulse Labs 3",
+    "slug": "pulse-labs-3",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-234",
+    "rating": 4.6,
+    "originCountry": "Sweden",
+    "yearEstablished": 1921,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Pulse Labs 3 collections."
+  },
+  {
+    "id": "brand-235",
+    "name": "Oasis Labs 3",
+    "slug": "oasis-labs-3",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-235",
+    "rating": 5,
+    "originCountry": "Japan",
+    "yearEstablished": 2002,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Oasis Labs 3 collections."
+  },
+  {
+    "id": "brand-236",
+    "name": "Volta Labs 3",
+    "slug": "volta-labs-3",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-236",
+    "rating": 4.9,
+    "originCountry": "UK",
+    "yearEstablished": 2015,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Volta Labs 3 collections."
+  },
+  {
+    "id": "brand-237",
+    "name": "Lumina Labs 3",
+    "slug": "lumina-labs-3",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-237",
+    "rating": 4.6,
+    "originCountry": "Japan",
+    "yearEstablished": 1934,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Lumina Labs 3 collections."
+  },
+  {
+    "id": "brand-238",
+    "name": "Quantum Design 3",
+    "slug": "quantum-design-3",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-238",
+    "rating": 4.5,
+    "originCountry": "USA",
+    "yearEstablished": 1946,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Quantum Design 3 collections."
+  },
+  {
+    "id": "brand-239",
+    "name": "Aether Design 3",
+    "slug": "aether-design-3",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-239",
+    "rating": 4.4,
+    "originCountry": "Germany",
+    "yearEstablished": 1937,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Aether Design 3 collections."
+  },
+  {
+    "id": "brand-240",
+    "name": "Aura Design 3",
+    "slug": "aura-design-3",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-240",
+    "rating": 4.3,
+    "originCountry": "Italy",
+    "yearEstablished": 1956,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Aura Design 3 collections."
+  },
+  {
+    "id": "brand-241",
+    "name": "Vanguard Design 3",
+    "slug": "vanguard-design-3",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-241",
+    "rating": 4.7,
+    "originCountry": "Germany",
+    "yearEstablished": 1949,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Vanguard Design 3 collections."
+  },
+  {
+    "id": "brand-242",
+    "name": "Elysium Design 3",
+    "slug": "elysium-design-3",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-242",
+    "rating": 4.5,
+    "originCountry": "USA",
+    "yearEstablished": 1981,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Elysium Design 3 collections."
+  },
+  {
+    "id": "brand-243",
+    "name": "Meridian Design 3",
+    "slug": "meridian-design-3",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-243",
+    "rating": 4.8,
+    "originCountry": "Japan",
+    "yearEstablished": 2006,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Meridian Design 3 collections."
+  },
+  {
+    "id": "brand-244",
+    "name": "Apex Design 3",
+    "slug": "apex-design-3",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-244",
+    "rating": 5,
+    "originCountry": "Germany",
+    "yearEstablished": 1971,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Apex Design 3 collections."
+  },
+  {
+    "id": "brand-245",
+    "name": "Zenith Design 3",
+    "slug": "zenith-design-3",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-245",
+    "rating": 4.6,
+    "originCountry": "USA",
+    "yearEstablished": 2022,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Zenith Design 3 collections."
+  },
+  {
+    "id": "brand-246",
+    "name": "Equinox Design 3",
+    "slug": "equinox-design-3",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-246",
+    "rating": 4.3,
+    "originCountry": "USA",
+    "yearEstablished": 1967,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Equinox Design 3 collections."
+  },
+  {
+    "id": "brand-247",
+    "name": "Nova Design 3",
+    "slug": "nova-design-3",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-247",
+    "rating": 4.5,
+    "originCountry": "Italy",
+    "yearEstablished": 1991,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Nova Design 3 collections."
+  },
+  {
+    "id": "brand-248",
+    "name": "Crest Design 3",
+    "slug": "crest-design-3",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-248",
+    "rating": 4.7,
+    "originCountry": "Italy",
+    "yearEstablished": 1926,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Crest Design 3 collections."
+  },
+  {
+    "id": "brand-249",
+    "name": "Sartorial Design 3",
+    "slug": "sartorial-design-3",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-249",
+    "rating": 4.6,
+    "originCountry": "Sweden",
+    "yearEstablished": 1991,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Sartorial Design 3 collections."
+  },
+  {
+    "id": "brand-250",
+    "name": "Verdant Design 3",
+    "slug": "verdant-design-3",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-250",
+    "rating": 4.5,
+    "originCountry": "Germany",
+    "yearEstablished": 1923,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Verdant Design 3 collections."
+  },
+  {
+    "id": "brand-251",
+    "name": "Pulse Design 3",
+    "slug": "pulse-design-3",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-251",
+    "rating": 4.6,
+    "originCountry": "USA",
+    "yearEstablished": 2000,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Pulse Design 3 collections."
+  },
+  {
+    "id": "brand-252",
+    "name": "Oasis Design 3",
+    "slug": "oasis-design-3",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-252",
+    "rating": 4.6,
+    "originCountry": "UK",
+    "yearEstablished": 1933,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Oasis Design 3 collections."
+  },
+  {
+    "id": "brand-253",
+    "name": "Volta Design 3",
+    "slug": "volta-design-3",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-253",
+    "rating": 4.6,
+    "originCountry": "South Korea",
+    "yearEstablished": 1963,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Volta Design 3 collections."
+  },
+  {
+    "id": "brand-254",
+    "name": "Lumina Design 3",
+    "slug": "lumina-design-3",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-254",
+    "rating": 4.5,
+    "originCountry": "Japan",
+    "yearEstablished": 2001,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Lumina Design 3 collections."
+  },
+  {
+    "id": "brand-255",
+    "name": "Quantum Gear 3",
+    "slug": "quantum-gear-3",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-255",
+    "rating": 4.7,
+    "originCountry": "Japan",
+    "yearEstablished": 2008,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Quantum Gear 3 collections."
+  },
+  {
+    "id": "brand-256",
+    "name": "Aether Gear 3",
+    "slug": "aether-gear-3",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-256",
+    "rating": 4.8,
+    "originCountry": "Sweden",
+    "yearEstablished": 1932,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Aether Gear 3 collections."
+  },
+  {
+    "id": "brand-257",
+    "name": "Aura Gear 3",
+    "slug": "aura-gear-3",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-257",
+    "rating": 4.7,
+    "originCountry": "Italy",
+    "yearEstablished": 2007,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Aura Gear 3 collections."
+  },
+  {
+    "id": "brand-258",
+    "name": "Vanguard Gear 3",
+    "slug": "vanguard-gear-3",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-258",
+    "rating": 4.4,
+    "originCountry": "Singapore",
+    "yearEstablished": 1951,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Vanguard Gear 3 collections."
+  },
+  {
+    "id": "brand-259",
+    "name": "Elysium Gear 3",
+    "slug": "elysium-gear-3",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-259",
+    "rating": 4.4,
+    "originCountry": "Sweden",
+    "yearEstablished": 2010,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Elysium Gear 3 collections."
+  },
+  {
+    "id": "brand-260",
+    "name": "Meridian Gear 3",
+    "slug": "meridian-gear-3",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-260",
+    "rating": 4.3,
+    "originCountry": "Germany",
+    "yearEstablished": 1931,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Meridian Gear 3 collections."
+  },
+  {
+    "id": "brand-261",
+    "name": "Apex Gear 3",
+    "slug": "apex-gear-3",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-261",
+    "rating": 4.7,
+    "originCountry": "Singapore",
+    "yearEstablished": 1954,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Apex Gear 3 collections."
+  },
+  {
+    "id": "brand-262",
+    "name": "Zenith Gear 3",
+    "slug": "zenith-gear-3",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-262",
+    "rating": 4.8,
+    "originCountry": "Japan",
+    "yearEstablished": 1936,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Zenith Gear 3 collections."
+  },
+  {
+    "id": "brand-263",
+    "name": "Equinox Gear 3",
+    "slug": "equinox-gear-3",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-263",
+    "rating": 4.5,
+    "originCountry": "South Korea",
+    "yearEstablished": 1944,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Equinox Gear 3 collections."
+  },
+  {
+    "id": "brand-264",
+    "name": "Nova Gear 3",
+    "slug": "nova-gear-3",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-264",
+    "rating": 4.9,
+    "originCountry": "Italy",
+    "yearEstablished": 1979,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Nova Gear 3 collections."
+  },
+  {
+    "id": "brand-265",
+    "name": "Crest Gear 3",
+    "slug": "crest-gear-3",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-265",
+    "rating": 4.7,
+    "originCountry": "South Korea",
+    "yearEstablished": 1988,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Crest Gear 3 collections."
+  },
+  {
+    "id": "brand-266",
+    "name": "Sartorial Gear 3",
+    "slug": "sartorial-gear-3",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-266",
+    "rating": 4.9,
+    "originCountry": "South Korea",
+    "yearEstablished": 1939,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Sartorial Gear 3 collections."
+  },
+  {
+    "id": "brand-267",
+    "name": "Verdant Gear 3",
+    "slug": "verdant-gear-3",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-267",
+    "rating": 4.5,
+    "originCountry": "Singapore",
+    "yearEstablished": 1932,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Verdant Gear 3 collections."
+  },
+  {
+    "id": "brand-268",
+    "name": "Pulse Gear 3",
+    "slug": "pulse-gear-3",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-268",
+    "rating": 4.9,
+    "originCountry": "South Korea",
+    "yearEstablished": 1945,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Pulse Gear 3 collections."
+  },
+  {
+    "id": "brand-269",
+    "name": "Oasis Gear 3",
+    "slug": "oasis-gear-3",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-269",
+    "rating": 4.5,
+    "originCountry": "Germany",
+    "yearEstablished": 1956,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Oasis Gear 3 collections."
+  },
+  {
+    "id": "brand-270",
+    "name": "Volta Gear 3",
+    "slug": "volta-gear-3",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-270",
+    "rating": 4.4,
+    "originCountry": "UK",
+    "yearEstablished": 1993,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Volta Gear 3 collections."
+  },
+  {
+    "id": "brand-271",
+    "name": "Lumina Gear 3",
+    "slug": "lumina-gear-3",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-271",
+    "rating": 4.8,
+    "originCountry": "Singapore",
+    "yearEstablished": 1930,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Lumina Gear 3 collections."
+  },
+  {
+    "id": "brand-272",
+    "name": "Quantum Dynamics 3",
+    "slug": "quantum-dynamics-3",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-272",
+    "rating": 4.3,
+    "originCountry": "UK",
+    "yearEstablished": 2008,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Quantum Dynamics 3 collections."
+  },
+  {
+    "id": "brand-273",
+    "name": "Aether Dynamics 3",
+    "slug": "aether-dynamics-3",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-273",
+    "rating": 4.9,
+    "originCountry": "USA",
+    "yearEstablished": 1949,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Aether Dynamics 3 collections."
+  },
+  {
+    "id": "brand-274",
+    "name": "Aura Dynamics 3",
+    "slug": "aura-dynamics-3",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-274",
+    "rating": 4.3,
+    "originCountry": "Italy",
+    "yearEstablished": 1930,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Aura Dynamics 3 collections."
+  },
+  {
+    "id": "brand-275",
+    "name": "Vanguard Dynamics 3",
+    "slug": "vanguard-dynamics-3",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-275",
+    "rating": 4.7,
+    "originCountry": "Sweden",
+    "yearEstablished": 1965,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Vanguard Dynamics 3 collections."
+  },
+  {
+    "id": "brand-276",
+    "name": "Elysium Dynamics 3",
+    "slug": "elysium-dynamics-3",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-276",
+    "rating": 5,
+    "originCountry": "USA",
+    "yearEstablished": 1999,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Elysium Dynamics 3 collections."
+  },
+  {
+    "id": "brand-277",
+    "name": "Meridian Dynamics 3",
+    "slug": "meridian-dynamics-3",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-277",
+    "rating": 4.7,
+    "originCountry": "USA",
+    "yearEstablished": 1943,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Meridian Dynamics 3 collections."
+  },
+  {
+    "id": "brand-278",
+    "name": "Apex Dynamics 3",
+    "slug": "apex-dynamics-3",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-278",
+    "rating": 4.8,
+    "originCountry": "Germany",
+    "yearEstablished": 1960,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Apex Dynamics 3 collections."
+  },
+  {
+    "id": "brand-279",
+    "name": "Zenith Dynamics 3",
+    "slug": "zenith-dynamics-3",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-279",
+    "rating": 4.9,
+    "originCountry": "USA",
+    "yearEstablished": 1924,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Zenith Dynamics 3 collections."
+  },
+  {
+    "id": "brand-280",
+    "name": "Equinox Dynamics 3",
+    "slug": "equinox-dynamics-3",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-280",
+    "rating": 4.6,
+    "originCountry": "Japan",
+    "yearEstablished": 1947,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Equinox Dynamics 3 collections."
+  },
+  {
+    "id": "brand-281",
+    "name": "Nova Dynamics 3",
+    "slug": "nova-dynamics-3",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-281",
+    "rating": 4.9,
+    "originCountry": "Italy",
+    "yearEstablished": 2022,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Nova Dynamics 3 collections."
+  },
+  {
+    "id": "brand-282",
+    "name": "Crest Dynamics 3",
+    "slug": "crest-dynamics-3",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-282",
+    "rating": 4.5,
+    "originCountry": "Italy",
+    "yearEstablished": 1976,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Crest Dynamics 3 collections."
+  },
+  {
+    "id": "brand-283",
+    "name": "Sartorial Dynamics 3",
+    "slug": "sartorial-dynamics-3",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-283",
+    "rating": 4.6,
+    "originCountry": "Japan",
+    "yearEstablished": 1990,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Sartorial Dynamics 3 collections."
+  },
+  {
+    "id": "brand-284",
+    "name": "Verdant Dynamics 3",
+    "slug": "verdant-dynamics-3",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-284",
+    "rating": 4.4,
+    "originCountry": "UK",
+    "yearEstablished": 1973,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Verdant Dynamics 3 collections."
+  },
+  {
+    "id": "brand-285",
+    "name": "Pulse Dynamics 3",
+    "slug": "pulse-dynamics-3",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-285",
+    "rating": 4.4,
+    "originCountry": "Germany",
+    "yearEstablished": 1992,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Pulse Dynamics 3 collections."
+  },
+  {
+    "id": "brand-286",
+    "name": "Oasis Dynamics 3",
+    "slug": "oasis-dynamics-3",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-286",
+    "rating": 4.3,
+    "originCountry": "UK",
+    "yearEstablished": 1933,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Oasis Dynamics 3 collections."
+  },
+  {
+    "id": "brand-287",
+    "name": "Volta Dynamics 3",
+    "slug": "volta-dynamics-3",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-287",
+    "rating": 4.8,
+    "originCountry": "Sweden",
+    "yearEstablished": 1956,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Volta Dynamics 3 collections."
+  },
+  {
+    "id": "brand-288",
+    "name": "Lumina Dynamics 3",
+    "slug": "lumina-dynamics-3",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-288",
+    "rating": 4.3,
+    "originCountry": "Italy",
+    "yearEstablished": 1929,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Lumina Dynamics 3 collections."
+  },
+  {
+    "id": "brand-289",
+    "name": "Quantum Goods 3",
+    "slug": "quantum-goods-3",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-289",
+    "rating": 4.2,
+    "originCountry": "South Korea",
+    "yearEstablished": 1981,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Quantum Goods 3 collections."
+  },
+  {
+    "id": "brand-290",
+    "name": "Aether Goods 3",
+    "slug": "aether-goods-3",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-290",
+    "rating": 4.4,
+    "originCountry": "Japan",
+    "yearEstablished": 2004,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Aether Goods 3 collections."
+  },
+  {
+    "id": "brand-291",
+    "name": "Aura Goods 3",
+    "slug": "aura-goods-3",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-291",
+    "rating": 4.4,
+    "originCountry": "Japan",
+    "yearEstablished": 1957,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Aura Goods 3 collections."
+  },
+  {
+    "id": "brand-292",
+    "name": "Vanguard Goods 3",
+    "slug": "vanguard-goods-3",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-292",
+    "rating": 4.3,
+    "originCountry": "USA",
+    "yearEstablished": 1986,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Vanguard Goods 3 collections."
+  },
+  {
+    "id": "brand-293",
+    "name": "Elysium Goods 3",
+    "slug": "elysium-goods-3",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-293",
+    "rating": 4.4,
+    "originCountry": "Singapore",
+    "yearEstablished": 1951,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Elysium Goods 3 collections."
+  },
+  {
+    "id": "brand-294",
+    "name": "Meridian Goods 3",
+    "slug": "meridian-goods-3",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-294",
+    "rating": 4.7,
+    "originCountry": "South Korea",
+    "yearEstablished": 1928,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Meridian Goods 3 collections."
+  },
+  {
+    "id": "brand-295",
+    "name": "Apex Goods 3",
+    "slug": "apex-goods-3",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-295",
+    "rating": 4.7,
+    "originCountry": "Singapore",
+    "yearEstablished": 1989,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Apex Goods 3 collections."
+  },
+  {
+    "id": "brand-296",
+    "name": "Zenith Goods 3",
+    "slug": "zenith-goods-3",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-296",
+    "rating": 4.2,
+    "originCountry": "USA",
+    "yearEstablished": 1980,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Zenith Goods 3 collections."
+  },
+  {
+    "id": "brand-297",
+    "name": "Equinox Goods 3",
+    "slug": "equinox-goods-3",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-297",
+    "rating": 4.6,
+    "originCountry": "Japan",
+    "yearEstablished": 1976,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Equinox Goods 3 collections."
+  },
+  {
+    "id": "brand-298",
+    "name": "Nova Goods 3",
+    "slug": "nova-goods-3",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-298",
+    "rating": 4.6,
+    "originCountry": "Germany",
+    "yearEstablished": 1957,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Nova Goods 3 collections."
+  },
+  {
+    "id": "brand-299",
+    "name": "Crest Goods 3",
+    "slug": "crest-goods-3",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-299",
+    "rating": 4.7,
+    "originCountry": "Italy",
+    "yearEstablished": 1994,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Crest Goods 3 collections."
+  },
+  {
+    "id": "brand-300",
+    "name": "Sartorial Goods 3",
+    "slug": "sartorial-goods-3",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-300",
+    "rating": 4.3,
+    "originCountry": "Sweden",
+    "yearEstablished": 1948,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Sartorial Goods 3 collections."
+  },
+  {
+    "id": "brand-301",
+    "name": "Verdant Goods 4",
+    "slug": "verdant-goods-4",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-301",
+    "rating": 4.8,
+    "originCountry": "UK",
+    "yearEstablished": 1940,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Verdant Goods 4 collections."
+  },
+  {
+    "id": "brand-302",
+    "name": "Pulse Goods 4",
+    "slug": "pulse-goods-4",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-302",
+    "rating": 5,
+    "originCountry": "UK",
+    "yearEstablished": 2005,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Pulse Goods 4 collections."
+  },
+  {
+    "id": "brand-303",
+    "name": "Oasis Goods 4",
+    "slug": "oasis-goods-4",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-303",
+    "rating": 4.5,
+    "originCountry": "South Korea",
+    "yearEstablished": 2002,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Oasis Goods 4 collections."
+  },
+  {
+    "id": "brand-304",
+    "name": "Volta Goods 4",
+    "slug": "volta-goods-4",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-304",
+    "rating": 4.2,
+    "originCountry": "Japan",
+    "yearEstablished": 1950,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Volta Goods 4 collections."
+  },
+  {
+    "id": "brand-305",
+    "name": "Lumina Goods 4",
+    "slug": "lumina-goods-4",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-305",
+    "rating": 4.6,
+    "originCountry": "Italy",
+    "yearEstablished": 2009,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Lumina Goods 4 collections."
+  },
+  {
+    "id": "brand-306",
+    "name": "Quantum Instruments 4",
+    "slug": "quantum-instruments-4",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-306",
+    "rating": 4.5,
+    "originCountry": "South Korea",
+    "yearEstablished": 1953,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Quantum Instruments 4 collections."
+  },
+  {
+    "id": "brand-307",
+    "name": "Aether Instruments 4",
+    "slug": "aether-instruments-4",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-307",
+    "rating": 4.4,
+    "originCountry": "Germany",
+    "yearEstablished": 1976,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Aether Instruments 4 collections."
+  },
+  {
+    "id": "brand-308",
+    "name": "Aura Instruments 4",
+    "slug": "aura-instruments-4",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-308",
+    "rating": 4.5,
+    "originCountry": "USA",
+    "yearEstablished": 2016,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Aura Instruments 4 collections."
+  },
+  {
+    "id": "brand-309",
+    "name": "Vanguard Instruments 4",
+    "slug": "vanguard-instruments-4",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-309",
+    "rating": 4.5,
+    "originCountry": "Singapore",
+    "yearEstablished": 2008,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Vanguard Instruments 4 collections."
+  },
+  {
+    "id": "brand-310",
+    "name": "Elysium Instruments 4",
+    "slug": "elysium-instruments-4",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=120&auto=format&fit=crop&q=80&sig=b-310",
+    "rating": 4.4,
+    "originCountry": "Italy",
+    "yearEstablished": 1929,
+    "description": "Leading innovator in high-quality design, engineering, and customer satisfaction for Elysium Instruments 4 collections."
+  }
+]

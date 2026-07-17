@@ -1,0 +1,72 @@
+[
+  {
+    "id": "WH-US-WEST-1",
+    "name": "Silicon Valley Logistics Hub",
+    "capacity": 500000,
+    "state": "California",
+    "city": "San Jose"
+  },
+  {
+    "id": "WH-US-WEST-2",
+    "name": "Pacific Northwest Warehouse",
+    "capacity": 250000,
+    "state": "Oregon",
+    "city": "Portland"
+  },
+  {
+    "id": "WH-US-EAST-1",
+    "name": "Tristate Fulfillment Center",
+    "capacity": 750000,
+    "state": "New York",
+    "city": "Buffalo"
+  },
+  {
+    "id": "WH-EU-CENTRAL-1",
+    "name": "Frankfurt Central Distribution",
+    "capacity": 600000,
+    "state": "Bavaria",
+    "city": "Munich"
+  },
+  {
+    "id": "WH-APAC-SG-1",
+    "name": "Changi Global Port Depot",
+    "capacity": 800000,
+    "state": "Central Region",
+    "city": "Singapore"
+  },
+  {
+    "id": "WH-IN-WEST-1",
+    "name": "JNPT Port Industrial Compound",
+    "capacity": 1000000,
+    "state": "Maharashtra",
+    "city": "Mumbai"
+  },
+  {
+    "id": "WH-IN-MUMBAI-2",
+    "name": "Thane Smart Warehouse",
+    "capacity": 450000,
+    "state": "Maharashtra",
+    "city": "Mumbai"
+  },
+  {
+    "id": "WH-UK-NORTH-1",
+    "name": "Manchester Gateway Hub",
+    "capacity": 350000,
+    "state": "England",
+    "city": "Manchester"
+  },
+  {
+    "id": "WH-JP-EAST-1",
+    "name": "Tokyo Bay Automated Compound",
+    "capacity": 900000,
+    "state": "Tokyo",
+    "city": "Yokohama"
+  },
+  {
+    "id": "WH-AUS-EAST-1",
+    "name": "Sydney Botany Cargo Facility",
+    "capacity": 400000,
+    "state": "New South Wales",
+    "city": "Sydney"
+  }
+]

@@ -1,0 +1,6 @@
+{
+  "name": "Ocean",
+  "description": "A minimalist, premium, and modern e-commerce platform focused on curated luxury products and seamless shopping experiences.",
+  "requestFramePermissions": ["microphone", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

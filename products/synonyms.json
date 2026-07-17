@@ -1,0 +1,49 @@
+{
+  "phone": [
+    "smartphone",
+    "cellphone",
+    "mobile",
+    "feature phone"
+  ],
+  "laptop": [
+    "notebook",
+    "macbook",
+    "gaming pc",
+    "computer"
+  ],
+  "headphones": [
+    "earbuds",
+    "headset",
+    "speakers",
+    "earphones"
+  ],
+  "shoes": [
+    "sneakers",
+    "running shoes",
+    "boots",
+    "footwear"
+  ],
+  "watch": [
+    "smart watch",
+    "timepiece",
+    "chronograph"
+  ],
+  "shirt": [
+    "t-shirt",
+    "clothing",
+    "apparel",
+    "top"
+  ],
+  "sofa": [
+    "couch",
+    "furniture",
+    "chair",
+    "lounge"
+  ],
+  "book": [
+    "novel",
+    "manga",
+    "textbook",
+    "comics"
+  ]
+}

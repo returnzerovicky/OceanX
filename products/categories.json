@@ -1,0 +1,199 @@
+[
+  {
+    "id": "cat-1",
+    "name": "Mobiles",
+    "slug": "mobiles",
+    "subcategories": [
+      "Smartphones",
+      "Feature Phones",
+      "Phone Cases",
+      "Chargers",
+      "Power Banks"
+    ]
+  },
+  {
+    "id": "cat-2",
+    "name": "Laptops",
+    "slug": "laptops",
+    "subcategories": [
+      "Laptops",
+      "Gaming Laptops",
+      "MacBooks",
+      "Desktop PCs",
+      "Monitors",
+      "Computer Components",
+      "Processors",
+      "Graphics Cards",
+      "Motherboards",
+      "RAM",
+      "SSD",
+      "HDD"
+    ]
+  },
+  {
+    "id": "cat-3",
+    "name": "Televisions",
+    "slug": "televisions",
+    "subcategories": [
+      "Televisions",
+      "Streaming Devices",
+      "Gaming Consoles",
+      "PlayStation",
+      "Xbox",
+      "Nintendo",
+      "Games",
+      "VR Headsets"
+    ]
+  },
+  {
+    "id": "cat-4",
+    "name": "Electronics",
+    "slug": "electronics",
+    "subcategories": [
+      "Smart Watches",
+      "Earbuds",
+      "Headphones",
+      "Cameras",
+      "DSLR",
+      "Mirrorless",
+      "Action Cameras",
+      "Drones",
+      "Networking",
+      "Routers",
+      "Printers",
+      "Projectors",
+      "Speakers"
+    ]
+  },
+  {
+    "id": "cat-5",
+    "name": "Fashion Men",
+    "slug": "fashion-men",
+    "subcategories": [
+      "Men's Clothing",
+      "Winter Wear",
+      "Summer Collection",
+      "Shoes",
+      "Sneakers",
+      "Running Shoes",
+      "Sandals",
+      "Slippers",
+      "Boots",
+      "Wallets",
+      "Belts",
+      "Sunglasses"
+    ]
+  },
+  {
+    "id": "cat-6",
+    "name": "Fashion Women",
+    "slug": "fashion-women",
+    "subcategories": [
+      "Women's Clothing",
+      "Kids Fashion",
+      "Baby Clothing",
+      "Jewelry",
+      "Handbags",
+      "Bags",
+      "Watches"
+    ]
+  },
+  {
+    "id": "cat-7",
+    "name": "Sports",
+    "slug": "sports",
+    "subcategories": [
+      "Exercise Equipment",
+      "Gym Equipment",
+      "Cycles",
+      "Outdoor Recreation",
+      "Cricket",
+      "Football",
+      "Basketball",
+      "Swimming",
+      "Yoga"
+    ]
+  },
+  {
+    "id": "cat-8",
+    "name": "Books",
+    "slug": "books",
+    "subcategories": [
+      "Fiction",
+      "Non-Fiction",
+      "Comics",
+      "Manga",
+      "Educational",
+      "Novels",
+      "Programming",
+      "Competitive Exams"
+    ]
+  },
+  {
+    "id": "cat-9",
+    "name": "Beauty",
+    "slug": "beauty",
+    "subcategories": [
+      "Skincare",
+      "Haircare",
+      "Perfumes",
+      "Makeup",
+      "Personal Care",
+      "Men Grooming"
+    ]
+  },
+  {
+    "id": "cat-10",
+    "name": "Home",
+    "slug": "home",
+    "subcategories": [
+      "Kitchen Appliances",
+      "Cookware",
+      "Tableware",
+      "Bedding",
+      "Home Decor",
+      "Lighting",
+      "Bathroom",
+      "Furniture",
+      "Storage",
+      "Cleaning",
+      "Garden"
+    ]
+  },
+  {
+    "id": "cat-11",
+    "name": "Toys",
+    "slug": "toys",
+    "subcategories": [
+      "Action Figures",
+      "Educational Toys",
+      "LEGO",
+      "Remote Cars",
+      "Board Games",
+      "Puzzles"
+    ]
+  },
+  {
+    "id": "cat-12",
+    "name": "Other",
+    "slug": "other",
+    "subcategories": [
+      "Automotive",
+      "Helmets",
+      "Car Accessories",
+      "Bike Accessories",
+      "Lubricants",
+      "Tyres",
+      "Pet Supplies",
+      "Musical Instruments",
+      "Office Supplies",
+      "Industrial Equipment",
+      "Luxury Goods",
+      "Health Devices",
+      "Medical Equipment",
+      "Groceries",
+      "Organic Foods",
+      "Beverages"
+    ]
+  }
+]
