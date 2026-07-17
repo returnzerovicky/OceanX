@@ -2,7 +2,7 @@
 
 # 🌊 OceanX
 
-### The Next Generation AI-Powered Global Multi-Vendor Marketplace
+### The Next Generation AI-Powered Global Multi Vendor Marketplace
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=28&duration=3500&pause=1200&color=3BA8FF&center=true&vCenter=true&width=900&lines=Enterprise+Marketplace.;18,000%2B+Products.;500%2B+Verified+Sellers.;108,000%2B+Customer+Reviews.;AI+Semantic+Search.;Built+for+Scale." />
 
